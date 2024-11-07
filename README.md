@@ -1,6 +1,9 @@
 ## Getting Started
 This program ask for a password and will keep asking until the requirements are met
 
+run the program by:
+java -jar --enable-preview passwordRequirements.jar
+
 Here is a sample from the terminal:
 ```
 Hello new user!
